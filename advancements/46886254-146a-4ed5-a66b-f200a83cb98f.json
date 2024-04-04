@@ -1,0 +1,296 @@
+{
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2024-04-03 20:59:01 -0300"
+    },
+    "done": false
+  },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2024-04-03 21:03:19 -0300"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-04-02 22:25:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2024-04-02 22:39:42 -0300"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-04-02 22:25:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2024-04-03 00:03:25 -0300",
+      "minecraft:skeleton": "2024-04-02 22:40:30 -0300",
+      "minecraft:spider": "2024-04-02 23:21:25 -0300",
+      "minecraft:creeper": "2024-04-02 22:39:42 -0300",
+      "minecraft:slime": "2024-04-03 21:03:16 -0300",
+      "minecraft:witch": "2024-04-03 20:49:32 -0300",
+      "minecraft:piglin": "2024-04-03 23:59:16 -0300",
+      "minecraft:zombie": "2024-04-02 22:40:40 -0300"
+    },
+    "done": false
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2024-04-02 22:47:21 -0300"
+    },
+    "done": true
+  },
+  "inventorypets:enchantingtable": {
+    "criteria": {
+      "crafting_table": "2024-04-04 00:05:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-04-03 23:58:04 -0300"
+    },
+    "done": true
+  },
+  "inventorypets:1": {
+    "criteria": {
+      "example": "2024-04-04 00:05:02 -0300"
+    },
+    "done": true
+  },
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2024-04-02 22:25:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-04-04 00:07:20 -0300"
+    },
+    "done": true
+  },
+  "tconstruct:internal/starting_book": {
+    "criteria": {
+      "tick": "2024-04-02 22:25:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-04-03 19:37:42 -0300"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-04-03 22:04:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2024-04-03 22:56:15 -0300",
+      "cooked_mutton": "2024-04-02 23:19:01 -0300",
+      "apple": "2024-04-02 22:40:19 -0300",
+      "cooked_salmon": "2024-04-03 19:31:06 -0300"
+    },
+    "done": false
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2024-04-03 00:17:50 -0300"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2024-04-02 22:39:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-04-02 22:36:35 -0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "field": "2024-04-03 22:51:04 -0300"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-04-03 23:58:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2024-04-02 23:16:24 -0300",
+      "minecraft:beach": "2024-04-02 22:40:24 -0300",
+      "minecraft:river": "2024-04-02 23:24:28 -0300",
+      "minecraft:cold_ocean": "2024-04-03 23:00:11 -0300",
+      "minecraft:forest": "2024-04-02 22:27:20 -0300",
+      "minecraft:lush_caves": "2024-04-03 21:05:56 -0300",
+      "minecraft:plains": "2024-04-02 22:25:54 -0300"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-04-03 23:58:05 -0300",
+      "minecraft:nether_wastes": "2024-04-03 23:58:13 -0300"
+    },
+    "done": false
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2024-04-03 21:39:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-04-02 22:43:32 -0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "field": "2024-04-03 22:51:04 -0300"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2024-04-03 21:42:39 -0300"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2024-04-03 22:08:05 -0300"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-04-02 22:25:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-04-02 22:40:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-04-02 23:56:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-04-03 20:53:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-04-02 22:37:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-04-02 22:27:56 -0300"
+    },
+    "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "earth": "2024-04-03 21:03:19 -0300"
+    },
+    "done": false
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-04-02 23:55:04 -0300"
+    },
+    "done": true
+  },
+  "inventorypets:root": {
+    "criteria": {
+      "auto": "2024-04-02 22:25:54 -0300"
+    },
+    "done": true
+  },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2024-04-03 23:35:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-04-02 22:39:22 -0300"
+    },
+    "done": true
+  },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2024-04-03 20:32:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-04-03 23:52:39 -0300"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2024-04-02 22:27:19 -0300"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-04-03 20:59:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2024-04-03 21:09:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-04-03 20:50:28 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-04-02 23:24:57 -0300"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}
