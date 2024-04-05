@@ -48,15 +48,15 @@
     },
     "done": true
   },
-  "inventorypets:enchantingtable": {
-    "criteria": {
-      "crafting_table": "2024-04-04 00:05:02 -0300"
-    },
-    "done": true
-  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-04-03 23:58:04 -0300"
+    },
+    "done": true
+  },
+  "inventorypets:enchantingtable": {
+    "criteria": {
+      "crafting_table": "2024-04-04 00:05:02 -0300"
     },
     "done": true
   },
@@ -277,6 +277,12 @@
   "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
       "axolotl_bucket": "2024-04-03 21:09:34 -0300"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2024-04-04 17:45:17 -0300"
     },
     "done": true
   },
