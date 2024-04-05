@@ -1,4 +1,22 @@
 {
+  "create:spout": {
+    "criteria": {
+      "0": "2024-04-05 00:41:29 -0300"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-04-05 00:07:20 -0300"
+    },
+    "done": false
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2024-04-05 00:49:06 -0300"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2024-04-02 22:35:09 -0300"
@@ -53,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-04-04 23:44:41 -0300"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-04-02 23:11:19 -0300"
@@ -74,6 +98,12 @@
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2024-04-04 19:21:44 -0300"
+    },
+    "done": true
+  },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2024-04-05 00:25:09 -0300"
     },
     "done": true
   },
@@ -99,6 +129,7 @@
       "minecraft:cold_ocean": "2024-04-03 22:56:47 -0300",
       "minecraft:forest": "2024-04-02 22:36:16 -0300",
       "minecraft:lush_caves": "2024-04-03 21:05:33 -0300",
+      "minecraft:deep_cold_ocean": "2024-04-04 23:55:10 -0300",
       "minecraft:old_growth_spruce_taiga": "2024-04-03 22:53:51 -0300",
       "minecraft:plains": "2024-04-02 22:35:09 -0300"
     },
@@ -137,6 +168,18 @@
   "create:shifting_gears": {
     "criteria": {
       "0": "2024-04-03 21:53:24 -0300"
+    },
+    "done": true
+  },
+  "create:glass_pipe": {
+    "criteria": {
+      "0": "2024-04-05 00:40:57 -0300"
+    },
+    "done": true
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2024-04-05 00:00:12 -0300"
     },
     "done": true
   },
@@ -254,6 +297,18 @@
     },
     "done": true
   },
+  "create:brass": {
+    "criteria": {
+      "0": "2024-04-04 23:18:58 -0300"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2024-04-05 00:34:23 -0300"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-04-03 23:58:15 -0300",
@@ -270,6 +325,12 @@
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "field": "2024-04-03 22:49:56 -0300"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/sand_casting": {
+    "criteria": {
+      "crafted_cast": "2024-04-04 23:18:31 -0300"
     },
     "done": true
   },
@@ -324,6 +385,12 @@
   "tconstruct:smeltery/puny_smelting": {
     "criteria": {
       "crafted_book": "2024-04-04 21:00:21 -0300"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2024-04-05 01:09:09 -0300"
     },
     "done": true
   },
