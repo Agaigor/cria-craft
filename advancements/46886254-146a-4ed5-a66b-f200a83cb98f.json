@@ -73,7 +73,9 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "field": "2024-04-03 22:51:04 -0300"
+      "erupting_inferno": "2024-04-05 18:14:29 -0300",
+      "field": "2024-04-03 22:51:04 -0300",
+      "visceral_heap": "2024-04-05 18:10:38 -0300"
     },
     "done": false
   },
@@ -150,6 +152,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-04-05 18:23:54 -0300"
+    },
+    "done": true
+  },
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2024-04-03 20:32:26 -0300"
@@ -185,6 +193,12 @@
       "opened_chest": "2024-04-03 20:59:01 -0300"
     },
     "done": false
+  },
+  "inventorypets:magmacube": {
+    "criteria": {
+      "crafting_table": "2024-04-05 17:55:28 -0300"
+    },
+    "done": true
   },
   "immersive_armors:recipes/misc/slime": {
     "criteria": {
@@ -235,6 +249,12 @@
     },
     "done": true
   },
+  "tconstruct:world/blood_island": {
+    "criteria": {
+      "found_island": "2024-04-05 18:20:34 -0300"
+    },
+    "done": true
+  },
   "inventorypets:1": {
     "criteria": {
       "example": "2024-04-04 00:05:02 -0300"
@@ -253,6 +273,7 @@
       "cooked_mutton": "2024-04-02 23:19:01 -0300",
       "cooked_beef": "2024-04-04 22:49:23 -0300",
       "apple": "2024-04-02 22:40:19 -0300",
+      "rotten_flesh": "2024-04-05 18:14:39 -0300",
       "cooked_salmon": "2024-04-03 19:31:06 -0300"
     },
     "done": false
@@ -260,6 +281,18 @@
   "immersive_armors:recipes/misc/robe": {
     "criteria": {
       "has_item": "2024-04-02 22:39:22 -0300"
+    },
+    "done": true
+  },
+  "inventorypets:netherportal": {
+    "criteria": {
+      "crafting_table": "2024-04-05 17:37:28 -0300"
+    },
+    "done": true
+  },
+  "tconstruct:world/sky_island": {
+    "criteria": {
+      "found_island": "2024-04-05 11:27:07 -0300"
     },
     "done": true
   },
@@ -278,7 +311,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-04-03 23:58:05 -0300",
-      "minecraft:nether_wastes": "2024-04-03 23:58:13 -0300"
+      "minecraft:nether_wastes": "2024-04-03 23:58:13 -0300",
+      "minecraft:warped_forest": "2024-04-05 18:09:28 -0300"
     },
     "done": false
   },
@@ -330,15 +364,33 @@
     },
     "done": true
   },
+  "inventorypets:lead": {
+    "criteria": {
+      "crafting_table": "2024-04-05 16:43:48 -0300"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-04-02 22:27:56 -0300"
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2024-04-05 16:43:12 -0300"
+    },
+    "done": true
+  },
   "create:precision_mechanism": {
     "criteria": {
       "0": "2024-04-05 01:09:06 -0300"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/puny_smelting": {
+    "criteria": {
+      "crafted_book": "2024-04-05 16:42:38 -0300"
     },
     "done": true
   },
