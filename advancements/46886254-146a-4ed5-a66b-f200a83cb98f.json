@@ -1,9 +1,16 @@
 {
+  "create:hand_crank_000": {
+    "criteria": {
+      "0": "2024-04-06 08:02:39 -0300"
+    },
+    "done": true
+  },
   "create:wrench_goggles": {
     "criteria": {
-      "0": "2024-04-05 00:07:17 -0300"
+      "0": "2024-04-05 00:07:17 -0300",
+      "1": "2024-04-06 02:50:39 -0300"
     },
-    "done": false
+    "done": true
   },
   "create:deployer": {
     "criteria": {
@@ -71,6 +78,25 @@
     },
     "done": true
   },
+  "twilightforest:alt/compat/ie_shaders": {
+    "criteria": {
+      "ie_masterwork": "2024-04-06 07:30:26 -0300",
+      "ie_uncommon": "2024-04-06 07:30:26 -0300",
+      "tf_masterwork": "2024-04-06 07:30:26 -0300",
+      "tf_uncommon": "2024-04-06 07:30:26 -0300",
+      "tf_common": "2024-04-06 07:30:26 -0300",
+      "ie_rare": "2024-04-06 07:30:26 -0300",
+      "ie_shader": "2024-04-06 07:30:26 -0300",
+      "ie_common": "2024-04-06 07:30:26 -0300",
+      "ie_twilight": "2024-04-06 07:30:26 -0300",
+      "tf_epic": "2024-04-06 07:30:26 -0300",
+      "ie_epic": "2024-04-06 07:30:26 -0300",
+      "tf_twilight": "2024-04-06 07:30:26 -0300",
+      "tf_shader": "2024-04-06 07:30:26 -0300",
+      "tf_rare": "2024-04-06 07:30:26 -0300"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2024-04-05 23:29:01 -0300"
@@ -94,6 +120,7 @@
       "erupting_inferno": "2024-04-05 18:14:29 -0300",
       "withered_abyss": "2024-04-05 23:07:17 -0300",
       "field": "2024-04-03 22:51:04 -0300",
+      "coniferous_forest": "2024-04-06 09:30:32 -0300",
       "visceral_heap": "2024-04-05 18:10:38 -0300",
       "undergrowth": "2024-04-05 23:00:19 -0300"
     },
@@ -108,6 +135,12 @@
   "cataclysm:find_soul_black_smith": {
     "criteria": {
       "blacksmith": "2024-04-05 22:52:18 -0300"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2024-04-06 02:54:02 -0300"
     },
     "done": true
   },
@@ -150,6 +183,12 @@
     },
     "done": true
   },
+  "immersiveengineering:multiblocks/multiblocks_root": {
+    "criteria": {
+      "has_item": "2024-04-06 09:12:48 -0300"
+    },
+    "done": true
+  },
   "create:mechanical_press": {
     "criteria": {
       "0": "2024-04-03 22:08:05 -0300"
@@ -168,6 +207,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "has_item": "2024-04-06 08:58:50 -0300"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2024-04-05 22:43:12 -0300"
@@ -177,13 +222,21 @@
   "tconstruct:world/slime_collector": {
     "criteria": {
       "magma_cream": "2024-04-05 22:42:28 -0300",
-      "earth": "2024-04-03 21:03:19 -0300"
+      "earth": "2024-04-03 21:03:19 -0300",
+      "ichor": "2024-04-06 02:17:23 -0300",
+      "blood": "2024-04-06 02:17:23 -0300"
     },
     "done": false
   },
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_other": "2024-04-05 22:21:54 -0300"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2024-04-06 02:48:05 -0300"
     },
     "done": true
   },
@@ -241,6 +294,12 @@
     },
     "done": true
   },
+  "create:funnel": {
+    "criteria": {
+      "0": "2024-04-06 08:40:07 -0300"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2024-04-03 20:50:28 -0300"
@@ -277,6 +336,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/mb_cokeoven": {
+    "criteria": {
+      "form_multiblock": "2024-04-06 09:00:09 -0300"
+    },
+    "done": true
+  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2024-04-02 22:25:59 -0300"
@@ -303,6 +368,7 @@
       "minecraft:slime": "2024-04-03 21:03:16 -0300",
       "minecraft:witch": "2024-04-03 20:49:32 -0300",
       "minecraft:piglin": "2024-04-03 23:59:16 -0300",
+      "minecraft:enderman": "2024-04-06 08:26:06 -0300",
       "minecraft:zombie": "2024-04-02 22:40:40 -0300"
     },
     "done": false
@@ -346,6 +412,18 @@
   "vs_eureka:recipes/balloon_color": {
     "criteria": {
       "has_orange_recipe": "2024-04-05 21:56:07 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/make_steel": {
+    "criteria": {
+      "has_item": "2024-04-06 09:12:48 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/mb_blastfurnace": {
+    "criteria": {
+      "form_multiblock": "2024-04-06 09:06:13 -0300"
     },
     "done": true
   },
@@ -454,6 +532,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2024-04-06 09:03:37 -0300"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-04-02 22:27:56 -0300"
@@ -493,6 +577,12 @@
   "vs_eureka:recipes/ship_helm": {
     "criteria": {
       "has_gold": "2024-04-05 22:02:13 -0300"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2024-04-06 02:44:55 -0300"
     },
     "done": true
   },
