@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-04-05 22:28:47 -0300"
+    },
+    "done": true
+  },
   "inventorypets:enchantingtable": {
     "criteria": {
       "crafting_table": "2024-04-04 00:04:14 -0300"
@@ -77,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-04-05 23:31:31 -0300"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-04-02 23:11:19 -0300"
@@ -85,7 +97,11 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "field": "2024-04-03 22:49:56 -0300"
+      "erupting_inferno": "2024-04-05 22:04:32 -0300",
+      "withered_abyss": "2024-04-05 23:06:53 -0300",
+      "field": "2024-04-03 22:49:56 -0300",
+      "visceral_heap": "2024-04-05 22:06:35 -0300",
+      "undergrowth": "2024-04-05 22:59:02 -0300"
     },
     "done": false
   },
@@ -123,6 +139,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-04-03 22:52:34 -0300",
       "minecraft:taiga": "2024-04-02 23:26:24 -0300",
+      "minecraft:birch_forest": "2024-04-06 01:15:54 -0300",
       "minecraft:beach": "2024-04-02 23:18:02 -0300",
       "minecraft:river": "2024-04-02 23:24:30 -0300",
       "minecraft:dripstone_caves": "2024-04-03 20:59:08 -0300",
@@ -130,6 +147,7 @@
       "minecraft:forest": "2024-04-02 22:36:16 -0300",
       "minecraft:lush_caves": "2024-04-03 21:05:33 -0300",
       "minecraft:deep_cold_ocean": "2024-04-04 23:55:10 -0300",
+      "minecraft:ocean": "2024-04-06 01:13:32 -0300",
       "minecraft:old_growth_spruce_taiga": "2024-04-03 22:53:51 -0300",
       "minecraft:plains": "2024-04-02 22:35:09 -0300"
     },
@@ -144,6 +162,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-04-02 22:43:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-04-05 23:27:48 -0300"
     },
     "done": true
   },
@@ -165,11 +189,43 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2024-04-05 22:42:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-04-05 22:28:48 -0300"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-04-05 22:44:28 -0300"
+    },
+    "done": true
+  },
   "create:shifting_gears": {
     "criteria": {
       "0": "2024-04-03 21:53:24 -0300"
     },
     "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-04-05 22:21:58 -0300"
+    },
+    "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "magma_cream": "2024-04-05 22:22:14 -0300",
+      "ichor": "2024-04-06 00:27:40 -0300",
+      "blood": "2024-04-06 00:26:55 -0300"
+    },
+    "done": false
   },
   "create:glass_pipe": {
     "criteria": {
@@ -186,6 +242,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-04-02 22:38:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-04-05 22:18:58 -0300"
     },
     "done": true
   },
@@ -219,6 +281,12 @@
     },
     "done": false
   },
+  "inventorypets:magmacube": {
+    "criteria": {
+      "crafting_table": "2024-04-05 21:53:38 -0300"
+    },
+    "done": true
+  },
   "tconstruct:smeltery/cast_collector": {
     "criteria": {
       "ingot": "2024-04-04 21:21:29 -0300"
@@ -234,11 +302,16 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-04-03 00:03:23 -0300",
+      "minecraft:blaze": "2024-04-05 23:29:01 -0300",
       "minecraft:skeleton": "2024-04-02 22:42:46 -0300",
       "minecraft:ghast": "2024-04-04 19:21:44 -0300",
+      "minecraft:hoglin": "2024-04-05 22:37:29 -0300",
+      "minecraft:magma_cube": "2024-04-05 22:41:29 -0300",
       "minecraft:spider": "2024-04-03 17:54:24 -0300",
+      "minecraft:piglin_brute": "2024-04-05 22:20:46 -0300",
       "minecraft:creeper": "2024-04-02 22:38:47 -0300",
       "minecraft:zombified_piglin": "2024-04-04 17:19:22 -0300",
+      "minecraft:wither_skeleton": "2024-04-05 23:35:26 -0300",
       "minecraft:piglin": "2024-04-03 23:59:26 -0300",
       "minecraft:enderman": "2024-04-04 17:33:30 -0300",
       "minecraft:zombie": "2024-04-02 22:41:59 -0300",
@@ -258,6 +331,12 @@
     },
     "done": true
   },
+  "tconstruct:world/blood_island": {
+    "criteria": {
+      "found_island": "2024-04-05 22:07:11 -0300"
+    },
+    "done": true
+  },
   "inventorypets:1": {
     "criteria": {
       "example": "2024-04-03 15:27:48 -0300"
@@ -270,11 +349,18 @@
     },
     "done": true
   },
+  "vs_eureka:recipes/balloon_color": {
+    "criteria": {
+      "has_orange_recipe": "2024-04-05 21:40:20 -0300"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-04-03 16:21:01 -0300",
       "cooked_mutton": "2024-04-02 23:49:48 -0300",
       "sweet_berries": "2024-04-03 17:44:40 -0300",
+      "baked_potato": "2024-04-05 21:51:53 -0300",
       "cooked_chicken": "2024-04-03 17:16:15 -0300",
       "cooked_salmon": "2024-04-03 16:02:38 -0300"
     },
@@ -283,6 +369,12 @@
   "immersive_armors:recipes/misc/robe": {
     "criteria": {
       "has_item": "2024-04-02 22:39:27 -0300"
+    },
+    "done": true
+  },
+  "inventorypets:netherportal": {
+    "criteria": {
+      "crafting_table": "2024-04-05 21:53:37 -0300"
     },
     "done": true
   },
@@ -312,7 +404,9 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-04-03 23:58:15 -0300",
-      "minecraft:nether_wastes": "2024-04-03 23:58:08 -0300"
+      "minecraft:nether_wastes": "2024-04-03 23:58:08 -0300",
+      "minecraft:warped_forest": "2024-04-05 22:05:04 -0300",
+      "minecraft:basalt_deltas": "2024-04-05 22:03:43 -0300"
     },
     "done": false
   },
@@ -331,6 +425,12 @@
   "tconstruct:smeltery/sand_casting": {
     "criteria": {
       "crafted_cast": "2024-04-04 23:18:31 -0300"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2024-04-05 21:42:50 -0300"
     },
     "done": true
   },
@@ -397,6 +497,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-04-03 11:04:48 -0300"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/ship_helm": {
+    "criteria": {
+      "has_gold": "2024-04-05 21:41:29 -0300"
     },
     "done": true
   },
